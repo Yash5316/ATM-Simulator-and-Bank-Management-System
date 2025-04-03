@@ -75,7 +75,4 @@ If you would like to contribute to this project, please follow these steps:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-You can reach me at:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+
